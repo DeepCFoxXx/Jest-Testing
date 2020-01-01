@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1577886930654" clover="3.2.0">
+  <project timestamp="1577886930655" name="All files">
+    <metrics statements="24" coveredstatements="23" conditionals="4" coveredconditionals="4" methods="10" coveredmethods="9" elements="38" coveredelements="36" complexity="0" loc="24" ncloc="24" packages="1" files="3" classes="3"/>
+    <file name="chunk.js" path="/Users/markconroy/Git-Hub Projects /jest-testing/chunk.js">
+      <metrics statements="9" coveredstatements="9" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="2" type="stmt"/>
+      <line num="4" count="2" type="stmt"/>
+      <line num="5" count="13" type="stmt"/>
+      <line num="7" count="13" type="cond" truecount="4" falsecount="0"/>
+      <line num="8" count="8" type="stmt"/>
+      <line num="10" count="5" type="stmt"/>
+      <line num="14" count="2" type="stmt"/>
+      <line num="17" count="1" type="stmt"/>
+    </file>
+    <file name="functions.js" path="/Users/markconroy/Git-Hub Projects /jest-testing/functions.js">
+      <metrics statements="12" coveredstatements="11" conditionals="0" coveredconditionals="0" methods="7" coveredmethods="6"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="2" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="9" count="1" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
+      <line num="13" count="1" type="stmt"/>
+      <line num="15" count="1" type="stmt"/>
+      <line num="16" count="0" type="stmt"/>
+      <line num="19" count="1" type="stmt"/>
+    </file>
+    <file name="reverseString.js" path="/Users/markconroy/Git-Hub Projects /jest-testing/reverseString.js">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="2" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
